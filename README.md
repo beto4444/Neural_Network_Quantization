@@ -3,5 +3,5 @@ Kod źródłowy do projektu z kwantyzacji sieci neuronowych
 #Instrukcja uruchomienia
 Do przykładowego procesu treningu jest przygotowany notes sample.ipynb. Aby go uruchomić należy zainstalować bibliotekę QKeras:
 ```pip install qkeras```
-Oczywiście wcześniej należy zainstalować analogicznie TensorFlow i Keras.
+Oczywiście wcześniej należy zainstalować analogicznie TensorFlow i Keras.</br>
 Reszta kodów jest przedstawiona w odpowiednich plikach.
